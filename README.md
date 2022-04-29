@@ -1,4 +1,5 @@
 # Setup Tensorflow 2.8 on CPU mode and Python 3.7.13
+[You will need git LFS](https://git-lfs.github.com/)
 
 This is for special project setting purpurse.
 DON'T use this , it's not for Mac M1.
